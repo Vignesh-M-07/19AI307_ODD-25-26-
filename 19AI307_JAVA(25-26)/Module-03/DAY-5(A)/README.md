@@ -23,10 +23,9 @@ To write a Java program that defines an enum named GameLevel with constants EASY
 ## PROGRAM:
  ```
 /*
-Program to implement a InnerClass using Java
-
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Program to implement a Looping Statement using Java
+Developed by: Vignesh M
+RegisterNumber:212223040235
 */
 ```
 
