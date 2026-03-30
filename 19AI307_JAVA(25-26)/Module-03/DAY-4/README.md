@@ -39,10 +39,10 @@ To design a unified controller system using Java Interfaces where different gami
 ## PROGRAM:
  ```
 /*
-Program to implement a Interface using Java
-
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+/*
+Program to implement a Looping Statement using Java
+Developed by: Vignesh M
+RegisterNumber:212223040235
 */
 ```
 
