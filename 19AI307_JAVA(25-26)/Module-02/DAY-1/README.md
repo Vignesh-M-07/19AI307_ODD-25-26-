@@ -29,9 +29,9 @@ To define a class Car with attributes brand, color, and year; create two objects
 ## PROGRAM:
  ```
 /*
-Program to implement a Class and Objects using Java
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Program to implement a Looping Statement using Java
+Developed by: Vignesh M
+RegisterNumber:212223040235
 */
 ```
 
