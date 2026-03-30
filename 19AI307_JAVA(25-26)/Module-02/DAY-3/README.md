@@ -37,10 +37,9 @@ To write a Java program that defines a class BankAccount with private attributes
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Specifiers using Java
-
-Developed by : Magesh C M
-RegisterNumber: 212223220053
+Program to implement a Looping Statement using Java
+Developed by: Vignesh M
+RegisterNumber:212223040235
 */
 ```
 
