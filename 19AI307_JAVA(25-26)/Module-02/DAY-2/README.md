@@ -24,10 +24,9 @@ To write a Java program that defines a method cube(int x) which internally calls
 ## PROGRAM:
  ```
 /*
-Program to implement a Methods using Java
-
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Program to implement a Looping Statement using Java
+Developed by: Vignesh M
+RegisterNumber:212223040235
 */
 ```
 
