@@ -31,10 +31,9 @@ To create an Employee class where the display() method returns the current objec
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Modifiers using Java
-
-Developed by: Magesh C M
-RegisterNumber: 212223220053
+Program to implement a Looping Statement using Java
+Developed by: Vignesh M
+RegisterNumber:212223040235
 */
 ```
 
